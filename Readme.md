@@ -23,11 +23,18 @@
 
 ## 🚀 About Me
 
-```javascript
-const johan = {
+Javascript
+const Johan = {
     location: "Philippines",
     currentFocus: "Web Development",
     interests: ["Frontend", "Backend", "UI/UX"],
     portfolio: "bit.ly/sntsyohan",
     email: "sntsjohan.dev@gmail.com"
 };
+🤝 Connect With Me
+<p> <a href="https://twitter.com/sntsjohan" target="_blank"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"> </a> <a href="https://linkedin.com/in/sntsjohan" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
+🛠️ Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,figma,ps&theme=light" /> </p>
+📊 GitHub Stats
+
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=100&section=footer&fontColor=black"/> </div> 
