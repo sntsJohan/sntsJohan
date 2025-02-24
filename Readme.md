@@ -2,8 +2,10 @@
   
   <!-- Animated wave text -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Johan+Santos;Welcome+to+my+profile!&center=true&size=30&color=58A6FF">
-  </h1>
+  Hi there! 👋<br>
+  I'm Johan Santos<br>
+  Welcome to my profile!
+</h1>
 
   <!-- Profile views counter -->
   <img src="https://komarev.com/ghpvc/?username=sntsjohan&style=flat-square&color=58A6FF" alt="Profile views">
