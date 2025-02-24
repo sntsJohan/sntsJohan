@@ -1,17 +1,73 @@
-<h1 align="center">Hi 👋, I'm Johan Santos</h1>
-<h3 align="center">An aspiring web and software Developer from the Philippines</h3>
+<div align="center">
+  
+  <!-- Animated wave text -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Johan+Santos;Welcome+to+my+profile!&center=true&size=30&color=58A6FF">
+  </h1>
 
-- 🌱 I’m currently learning **Tailwind CSS, NodeJS, PHP**
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=sntsjohan&style=flat-square&color=58A6FF" alt="Profile views">
 
-- 👨‍💻 All of my projects are available at [bit.ly/sntsyohan](bit.ly/sntsyohan)
+  <!-- Animated description -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Web+and+Software+Developer;From+the+Philippines&center=true&size=20&color=58A6FF">
+  </h3>
 
-- 📫 How to reach me **sntsjohan.dev@gmail.com**
+  <!-- Custom badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Learning-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/Learning-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Learning-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sntsjohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sntsjohan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sntsjohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sntsjohan" height="30" width="40" /></a>
-</p>
+  <!-- Animated stats cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sntsjohan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntsjohan&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- About me section with custom styling -->
+<div align="left">
+  
+  ## 🚀 About Me
+  
+  ```javascript
+  const johan = {
+    location: "Philippines",
+    currentFocus: "Web Development",
+    interests: ["Frontend", "Backend", "UI/UX"],
+    portfolio: "bit.ly/sntsyohan",
+    email: "sntsjohan.dev@gmail.com"
+  };
+  ```
+
+  ## 🤝 Connect With Me
+  
+  <p>
+    <a href="https://twitter.com/sntsjohan" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://linkedin.com/in/sntsjohan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+
+  ## 🛠️ Tech Stack
+  
+  <!-- Technologies grid with hover effects -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,figma,ps&theme=dark" />
+  </p>
+
+  ## 📊 GitHub Stats
+  
+  <!-- Snake animation -->
+  ![Snake animation](https://github.com/sntsjohan/sntsjohan/blob/output/github-contribution-grid-snake.svg)
+  
+  <!-- Streak stats -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sntsjohan&theme=tokyonight)](https://git.io/streak-stats)
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
