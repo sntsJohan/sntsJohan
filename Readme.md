@@ -56,9 +56,12 @@
 
   ## 📊 GitHub Stats
   
-  <!-- Snake animation -->
-  ![Snake animation](https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-contribution-grid-snake.svg)
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-snake.svg">
+</picture>
+
   <!-- Streak stats -->
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sntsjohan&theme=tokyonight)](https://git.io/streak-stats)
 </div>
