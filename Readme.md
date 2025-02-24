@@ -1,47 +1,61 @@
 <div align="center">
-  <h1>Johan Santos</h1>
+  <h1>Hi there! 👋 I'm Johan Santos</h1>
   
-  <h3>Web and Software Developer</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sntsjohan&style=flat-square&color=58A6FF" alt="Profile views">
+  </p>
+
+  <h3>Aspiring Web and Software Developer from the Philippines</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=sntsjohan&style=flat-square&color=000000" alt="Profile views">
+    <img src="https://img.shields.io/badge/Learning-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/Learning-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Learning-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </p>
+
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sntsjohan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntsjohan&layout=compact&langs_count=7&theme=tokyonight"/>
   </p>
 </div>
 
-## About
-javascript
+<div align="left">
+
+## 🚀 About Me
+
+```javascript
 const johan = {
-location: "Philippines",
-focus: "Web Development",
-interests: ["Frontend", "Backend", "UI/UX"],
-portfolio: "bit.ly/sntsyohan",
-contact: "sntsjohan.dev@gmail.com"
-}
+    location: "Philippines",
+    currentFocus: "Web Development",
+    interests: ["Frontend", "Backend", "UI/UX"],
+    portfolio: "bit.ly/sntsyohan",
+    email: "sntsjohan.dev@gmail.com"
+};
+```
 
+## 🤝 Connect With Me
 
-## Currently Learning
+<p>
+  <a href="https://twitter.com/sntsjohan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/sntsjohan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+## 🛠️ Tech Stack
 
-## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,figma,ps&theme=dark" />
+</p>
 
-![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
+## 📊 GitHub Stats
 
-## Connect
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sntsjohan&theme=tokyonight)](https://git.io/streak-stats)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/sntsjohan)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/sntsjohan)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sntsjohan&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
