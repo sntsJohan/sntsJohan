@@ -1,14 +1,13 @@
 <div align="center">
   
-  <!-- Animated wave text -->
-  <h1> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Johan+Santos;Welcome+to+my+profile!&center=true&size=30&color=58A6FF"> </h1>
+  <!-- Clean header -->
+  <h1>Hi there! 👋 I'm Johan Santos</h1>
+
   <!-- Profile views counter -->
   <img src="https://komarev.com/ghpvc/?username=sntsjohan&style=flat-square&color=58A6FF" alt="Profile views">
 
-  <!-- Animated description -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Web+and+Software+Developer;From+the+Philippines&center=true&size=20&color=58A6FF">
-  </h3>
+  <!-- Clean description -->
+  <h3>Aspiring Web and Software Developer from the Philippines</h3>
 
   <!-- Custom badges -->
   <p>
@@ -58,7 +57,7 @@
   ## 📊 GitHub Stats
   
   <!-- Snake animation -->
-  ![Snake animation](https://github.com/sntsjohan/sntsjohan/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-contribution-grid-snake.svg)
   
   <!-- Streak stats -->
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sntsjohan&theme=tokyonight)](https://git.io/streak-stats)
