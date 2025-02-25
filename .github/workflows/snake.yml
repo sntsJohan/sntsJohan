@@ -20,11 +20,7 @@ jobs:
       - uses: Platane/snk@v2
         id: snake-gif
         with:
-          # Your GitHub username
           github_user_name: sntsjohan
-          # Size of the generated GIF
-          gif_out_path: dist/github-snake.gif
-          # SVG path
           svg_out_path: dist/github-snake.svg
 
       # Push the changes
