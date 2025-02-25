@@ -71,17 +71,6 @@ const johan = {
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,figma,ps&theme=dark" />
 </p>
 
-## 📊 Activity
-
-<!-- Snake animation -->
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sntsjohan/sntsjohan/output/github-snake.svg">
-</picture>
-</p>
-
 </div>
 
 <!-- Footer Wave -->
