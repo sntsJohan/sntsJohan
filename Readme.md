@@ -78,11 +78,6 @@ const johan = {
   <img src="https://github.com/sntsjohan/sntsjohan/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Semper%20ad%20meliora" />
-</p>
-
 </div>
 
 <!-- Footer Wave -->
