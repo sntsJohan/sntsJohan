@@ -10,7 +10,7 @@
   
   <!-- Typing Animation -->
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Web+Developer;UI%2FUX+Enthusiast;Learning+New+Technologies;From+the+Philippines" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;UI%2FUX+Enthusiast;Learning+New+Technologies;From+the+Philippines" alt="Typing SVG" /></a>
   </p>
   
   <!-- Learning Badges with Hover Effect -->
