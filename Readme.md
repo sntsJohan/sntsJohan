@@ -117,7 +117,7 @@ const johan = {
 
 <!-- Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Semper%20ad%20meliora" />
 </p>
 
 </div>
