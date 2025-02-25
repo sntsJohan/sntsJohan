@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Johan%20Santos&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Web%20and%20Software%20Developer&descAlignY=55&descSize=22" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Johan%20Santos&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Developer&descAlignY=55&descSize=22" width="100%">
   
   <!-- Visitor Counter with Animation -->
   <a href="https://github.com/sntsjohan">
