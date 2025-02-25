@@ -50,43 +50,6 @@ const johan = {
 };
 ```
 
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Project+Screenshot" width="100%" alt="Project"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-333333?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>  
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, JavaScript</strong> - Project description goes here.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Project+Screenshot" width="100%" alt="Project"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-333333?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p><strong>React, Node.js, MongoDB</strong> - Project description goes here.</p>
-    </td>
-  </tr>
-</table>
-
 ## 🤝 Connect With Me
 
 <p align="left">
