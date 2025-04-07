@@ -41,7 +41,7 @@
 ```javascript
 const johan = {
     location: "Philippines 🇵🇭",
-    currentFocus: "Web Development 🌐",
+    currentFocus: "Thesis Program",
     interests: ["Frontend 🎨", "Backend 🛠️", "UI/UX 🎯"],
     portfolio: "https://bit.ly/sntsyohan",
     email: "sntsjohan.dev@gmail.com",
